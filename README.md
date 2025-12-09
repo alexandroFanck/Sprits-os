@@ -4,6 +4,7 @@ Sprits-OS (LFN – Linux From Nothing) é uma distribuição Linux minimalista c
 
 A versão **0.3** traz melhorias importantes no toolchain base, possibilitando compilar mais softwares e expandir a distro de forma segura e modular.
 
+**O disk.img esta disponivel nas releases**
 ---
 
 ## 🧩 **Componentes adicionados na versão 0.3**
